@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map 
+- Leaflet Map https://ocrowley86.github.io/Storymap-Copy/#1
 - Google Sheets template https://docs.google.com/spreadsheets/d/10q0i4OXvwCpjioV2mLRWYznIYhBWnTkwRwtA97J3QL0/edit#gid=0
 
 ## Create Your Own
